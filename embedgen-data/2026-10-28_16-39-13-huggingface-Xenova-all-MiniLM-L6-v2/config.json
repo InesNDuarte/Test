@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "all-MiniLM-L6-v2",
+      "tensorShape": [
+        5,
+        1
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/InesNDuarte/Test/main/embedgen-data/2026-10-28_16-39-13-huggingface-Xenova-all-MiniLM-L6-v2/tensors.bytes",
+      "metadataPath": "https://raw.githubusercontent.com/InesNDuarte/Test/main/embedgen-data/2026-10-28_16-39-13-huggingface-Xenova-all-MiniLM-L6-v2/metadata.tsv"
+    }
+  ]
+}
